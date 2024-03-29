@@ -85,7 +85,7 @@ body{
       line-height: 25px;
       top: 20px;
       left: 105px;
-      background: linear-gradient(to left, black, indigo, blue, green, yellow, orange, red);
+      background: linear-gradient(to left, lime, indigo, white, cream);
       -webkit-background-clip: text;
       -webkit-text-fill-color: transparent;
 }
